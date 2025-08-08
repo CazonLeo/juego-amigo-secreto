@@ -33,6 +33,7 @@ Si quieres empezar desde cero, haz clic en "Nuevo sorteo".
 El proyecto está organizado en tres archivos principales:
 
 /juego-amigo-secreto/
+
 ├── index.html     # Estructura principal con el formulario y los botones.
 ├── script.js      # Lógica de JavaScript para las interacciones.
 └── style.css      # Estilos visuales de la interfaz.
