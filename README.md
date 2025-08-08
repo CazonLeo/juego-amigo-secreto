@@ -1,7 +1,9 @@
 🎁 Juego del Amigo Secreto
+
 Este es un proyecto sencillo diseñado para ayudarte a organizar un juego del amigo secreto de forma rápida y digital. Ideal para principiantes que están dando sus primeros pasos con JavaScript y el desarrollo web.
 
 📝 Funcionalidades
+
 El juego te permite:
 
 Añadir amigos: Ingresa los nombres de los participantes en una lista.
@@ -13,6 +15,7 @@ Sortear un amigo: Selecciona un nombre al azar de la lista.
 Realizar un nuevo sorteo: Borra todos los nombres de la lista para empezar de nuevo.
 
 🚀 Cómo usarlo
+
 Sigue estos sencillos pasos para organizar tu sorteo:
 
 Escribe el nombre de un amigo en el cuadro de texto.
@@ -26,6 +29,7 @@ Cuando todos los nombres estén en la lista, presiona el botón "Sortear amigo".
 Si quieres empezar desde cero, haz clic en "Nuevo sorteo".
 
 🛠️ Estructura del proyecto
+
 El proyecto está organizado en tres archivos principales:
 
 /juego-amigo-secreto/
@@ -34,4 +38,5 @@ El proyecto está organizado en tres archivos principales:
 └── style.css      # Estilos visuales de la interfaz.
 
 🧑‍💻 Autor
+
 LDC
